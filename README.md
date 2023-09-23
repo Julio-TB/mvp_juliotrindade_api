@@ -4,7 +4,7 @@ Aluno: Júlio Trindade Beaklini
 
 Este pequeno projeto é o meu **MVP** da **Sprint 1 - Desenvolvimento Full Stack Básico**.
 
-O objetivo aqui é ilustrar uma base dados de usuários simples de uma Fundação de Amparo a Pesquisa fictícia.
+O objetivo aqui é ilustrar uma base de dados de usuários simples de uma Fundação de Amparo a Pesquisa fictícia.
 
 ---
 ## Como executar 
